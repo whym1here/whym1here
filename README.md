@@ -22,6 +22,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=still-n0thing&theme=ayu-mirage&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-stats.vercel.app/?user=still-n0thing&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=still-n0thing&theme=ayu-mirage&hide_border=false&include_all_commits=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=still-n0thing&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=still-n0thing&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=still-n0thing&theme=ayu-mirage&hide_border=false&layout=compact)
