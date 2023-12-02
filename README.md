@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Graphs, Deep Learning and Compiler Design**
 
-- 📫 How to reach me **dhavalkumar741@gmail.com**
+- 📫 How to reach me **[Twitter](https://twitter.com/whym1here)** or **[LinkedIn](https://www.linkedin.com/in/dhaval-kumar-534349201/)**
 
 
 # 💻 Tech Stack:
