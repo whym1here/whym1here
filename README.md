@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhaval Kumar</h1>
 <h3 align="center">A Computer Science Student and Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=still-n0thing&label=Profile%20views&color=0e75b6&style=flat" alt="still-n0thing" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whym1here&label=Profile%20views&color=0e75b6&style=flat" alt="whym1here" /> </p>
 
 # 💫 About Me:
 - 🔭 I’m currently working on [networkx](https://github.com/networkx/networkx)
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [llvm-project](https://github.com/llvm/llvm-project)
 
-- 🤝 I’m looking for help with [basic-dsalgo](https://github.com/still-n0thing/basic-dsalgo)
+- 🤝 I’m looking for help with [basic-dsalgo](https://github.com/whym1here/basic-dsalgo)
 
 - 💬 Ask me about **Graphs, Deep Learning and Compiler Design**
 
